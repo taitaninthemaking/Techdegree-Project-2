@@ -1,3 +1,7 @@
+.header-img{
+  max-width: 100%;
+}
+
 /* Global Layout Set-up */
 * {
   box-sizing: border-box;
@@ -28,7 +32,7 @@
  /* Section Styles */
  
  .main-nav {
-  min-width: 400px;
+  
   min-height: 30px;
   padding: 10px;
   text-align: center;
@@ -211,7 +215,7 @@ footer  {
  
 .main-footer {
   
-  min-width: 400px;
+  
   min-height: 30px;
   padding: 10px;
   
